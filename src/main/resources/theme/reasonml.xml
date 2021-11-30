@@ -1,4 +1,4 @@
-<scheme name="dark_reason" version="142" parent_scheme="Darcula">
+<scheme name="ReasonML" version="142" parent_scheme="Darcula">
     <option name="FONT_SCALE" value="1.0" />
     <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
     <option name="CONSOLE_LIGATURES" value="true" />
